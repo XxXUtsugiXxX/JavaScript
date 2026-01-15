@@ -4,7 +4,7 @@ titulo.style.color = "blue";
 
 // Seleccionar por clase
 const parrafo = document.querySelector(".texto");
-parrafo.textContent = "Texto modificado con querySelector";
+parrafo.textContent = "es mejor porque es más flexible, usa selectores CSS, hace el código más limpio y evita trabajar con colecciones innecesarias.";
 
 // Seleccionar por etiqueta
 const boton = document.querySelector("button");
