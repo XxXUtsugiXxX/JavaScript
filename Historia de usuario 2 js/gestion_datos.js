@@ -30,7 +30,7 @@ for (const num of numeros) {
  
 const mapProductos = new Map();
 mapProductos.set("Electronica ", {nombre : "Laptop ", precio : "2500" });
-mapProductos.set("Telefonos ", {nomnbre : "Celular ", precio : "1200" });
+mapProductos.set("Telefonos ", {nombre : "Celular ", precio : "1200" });
 mapProductos.set("Ropa ", {nombre : "Camisa ", precio : "400" });
 mapProductos.set("Hogar ", {nombre : "Licuadora ", precio : "800" });
 
